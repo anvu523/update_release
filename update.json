@@ -1,5 +1,6 @@
 {
   "version": "1.2.0",
   "changelog": "- Hỗ trợ kiểm tra bản quyền online\n- Tối ưu tốc độ xử lý file .docx\n- Sửa lỗi crash khi mở nhiều tab",
+  "download_url": "https://github.com/anvu523/update_release/archive/refs/tags/test_new_release.zip",
   "published_at": "2025-05-18"
 }
